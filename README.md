@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @tomparish
+- 👀 I’m interested in IoT, AI, SCADA, MQTT and RF
+- 🌱 I’m currently learning Python for embedded project
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me Email is best but you can DM me on Twitter
